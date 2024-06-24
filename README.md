@@ -35,7 +35,7 @@ This project is a simulation of the Catan board game, implemented in C++. The ga
 ## To run the unit tests:
   make test
 --------------------------------------------------------------------------------------------------------------------------------
-## Project Structure
+# Project Structure
   Board.cpp, Board.hpp: Implementation and header for the game board.
   Catan.cpp, Catan.hpp: Implementation and header for the Catan game logic.
   Player.cpp, Player.hpp: Implementation and header for player management.
@@ -50,4 +50,4 @@ This project is a simulation of the Catan board game, implemented in C++. The ga
   Contributions are welcome! Please fork the repository and submit pull requests for any features, bug fixes, or improvements.
 --------------------------------------------------------------------------------------------------------------------------------
 ## Contact
-  For any questions or suggestions, please contact yourname@example.com.
+  For any questions or suggestions, please contact Wasimshebalny@gmail.com.
