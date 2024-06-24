@@ -57,7 +57,7 @@ This project is a simulation of the Catan board game, implemented in C++. The ga
   Test.cpp: Unit tests for the project using the doctest library.
   
   --------------------------------------------------------------------------------------------------------------------------------
-  Contributing
+  Contributing: 
   Contributions are welcome! Please fork the repository and submit pull requests for any features, bug fixes, or improvements.
   
 --------------------------------------------------------------------------------------------------------------------------------
