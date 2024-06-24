@@ -37,17 +37,29 @@ This project is a simulation of the Catan board game, implemented in C++. The ga
 --------------------------------------------------------------------------------------------------------------------------------
 # Project Structure
   Board.cpp, Board.hpp: Implementation and header for the game board.
+  
   Catan.cpp, Catan.hpp: Implementation and header for the Catan game logic.
+  
   Player.cpp, Player.hpp: Implementation and header for player management.
+  
   DevelopmentCard.cpp, DevelopmentCard.hpp: Implementation and header for development cards.
+  
   Hexas.cpp, Hexas.hpp: Implementation and header for hexagons on the board.
+  
   Nodes.cpp, Nodes.hpp: Implementation and header for nodes on the board.
+  
   Paths.cpp, Paths.hpp: Implementation and header for paths on the board.
+  
   Cards.cpp, Cards.hpp: Implementation and header for resource cards.
+  
   Tools.cpp, Tools.hpp: Utility functions and classes.
+  
   Test.cpp: Unit tests for the project using the doctest library.
+  
+  --------------------------------------------------------------------------------------------------------------------------------
   Contributing
   Contributions are welcome! Please fork the repository and submit pull requests for any features, bug fixes, or improvements.
+  
 --------------------------------------------------------------------------------------------------------------------------------
 ## Contact
   For any questions or suggestions, please contact Wasimshebalny@gmail.com.
