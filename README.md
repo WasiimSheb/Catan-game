@@ -22,7 +22,7 @@ This project is a simulation of the Catan board game, implemented in C++. The ga
 ### Installation
 1. **Clone the repository**:
    git https://github.com/WasiimSheb/systemsoftware2Ex3/tree/main
-   cd catan-game
+   cd systemsoftware2Ex3
 --------------------------------------------------------------------------------------------------------------------------------
 ## Build the project:
   make
