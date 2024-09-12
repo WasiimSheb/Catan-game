@@ -28,7 +28,7 @@ This project is a simulation of the Catan board game, implemented in C++. The ga
   make
 --------------------------------------------------------------------------------------------------------------------------------
 ## Usage:
-     Running the Demo
+   Running the Demo
   To run the demo of the Catan game:
    make demo
 --------------------------------------------------------------------------------------------------------------------------------
